@@ -1,4 +1,4 @@
-FROM python:3.11-slim-bookworm
+FROM python:3.13.4-slim-bookworm
 
 ARG BUILD_CONTEXT
 ARG INTEGRATION_VERSION
